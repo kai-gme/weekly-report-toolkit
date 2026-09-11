@@ -1,0 +1,9 @@
+{
+  "name": "weekly-report",
+  "description": "팀 주간 보고 — 공유 엑셀 하나에서 주간 미팅 발표본 HTML 을 뽑는다. 완료·진행 중·다음 주 계획·이슈가 전부 비고 칸에서 파생되고, 상태 색은 계산한다(사람이 찍지 않는다).",
+  "version": "0.1.0",
+  "author": {
+    "name": "kai-gme"
+  },
+  "homepage": "https://github.com/kai-gme/weekly-report-toolkit"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "weekly-report-toolkit",
+  "owner": {
+    "name": "kai-gme"
+  },
+  "description": "팀 주간 보고 도구 — 공유 엑셀에서 주간 미팅 발표본 HTML 생성",
+  "plugins": [
+    {
+      "name": "weekly-report",
+      "source": "./plugins/weekly-report",
+      "description": "공유 엑셀 하나에서 주간 미팅 발표본 HTML 을 뽑는다. 완료·진행 중·다음 주 계획·이슈가 전부 비고 칸에서 파생된다."
+    }
+  ]
+}
